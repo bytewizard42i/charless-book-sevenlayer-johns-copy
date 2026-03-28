@@ -1,6 +1,6 @@
 # Midnight Ecosystem URLs — Curated for The Seven-Layer Magic Trick
 
-**Curated by**: John Santi (Midnight Ambassador)  
+**Curated by**: John Santi (Midnight NightForce Bravo | Midnight Academy Triple Certified | Midnight Ambassador)  
 **Date**: March 28, 2026  
 **Purpose**: Supplemental URL collection for readers of Charles Hoskinson's book. Organized by the seven-layer model and by topic. Offered to Charles for potential inclusion as an appendix, web companion, or bibliography supplement.
 
@@ -189,4 +189,4 @@ The highest-impact additions would be:
 ---
 
 *All URLs verified March 28, 2026*  
-*Curated by John Santi — Midnight Ambassador, author of "How to Code with Midnight"*
+*Curated by John Santi — Midnight NightForce Bravo | Midnight Academy Triple Certified | Cardano Certified Blockchain Associate | Emurgo Certified Blockchain Business Consultant | Midnight Ambassador | author of "How to Code with Midnight"*

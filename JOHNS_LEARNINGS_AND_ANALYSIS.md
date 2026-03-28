@@ -1,6 +1,7 @@
 # John's Learnings & Analysis — The Seven-Layer Magic Trick
 
 **Reviewer**: John Santi (with Penny)  
+**Credentials**: Midnight NightForce Bravo | Midnight Academy Triple Certified | Cardano Certified Blockchain Associate | Emurgo Certified Blockchain Business Consultant | Midnight Ambassador | Midnight Aliit (inactive)  
 **Date**: March 28, 2026  
 **Context**: Deep read-through of all 14 chapters as part of integrating this book into the DIDzMonolith ecosystem (27 submodules: 22 products + 5 books)
 
