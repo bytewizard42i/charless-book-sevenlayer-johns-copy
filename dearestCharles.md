@@ -22,7 +22,6 @@ Everything here is offered freely under the same **CC BY 4.0** license as the bo
 
 | File | What It Is |
 |------|-----------|
-| **`johnny5i_LEARNINGS_AND_ANALYSIS.md`** | Chapter-by-chapter analysis, errata candidates, and cross-references to our deployed products |
 | **`MIDNIGHT_ECOSYSTEM_URLS.md`** | 70+ verified URLs mapped to your seven-layer model and chapter structure |
 | **This file** | The resource compendium below, plus some context about who we are and why we care |
 
