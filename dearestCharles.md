@@ -1,6 +1,7 @@
 # Dearest Charles,
 
 **A Note and a Gift from One Dreamer to Another**
+"I hope it does some good." -John Santi
 
 ---
 
@@ -68,6 +69,7 @@ Your book will inspire people to build. Here's where they go:
 | **Midnight Build Club** | https://midnight.network/build-club | Founder-focused program — privacy-preserving product development with Midnight support. Doesn't mandate exclusive deployment; encourages interoperable design |
 | **NightForce Ambassador Program** | https://midnight.network/nightforce-ambassador-program | The builder-ambassador track — for developers who want to contribute to the ecosystem while building. (John is NightForce Bravo.) |
 | **Midnight Aliit Fellowship** | https://midnight.network/blog/midnight-foundation-launches-quests-in-advance-of-ambassador-program | Community + builder quests on Zealy, leading into the Aliit Fellowship — Midnight's selective program for contributors with depth and rigor |
+| **Midnight City Simulation** | https://www.midnight.city/ | Midnight City is a new way to experience the Midnight Network — a world where privacy isn't explained, it's something you can see and experience for yourself. Demonstrates real-world application of Midnight's selective/rational privacy model |
 
 ---
 
@@ -123,7 +125,7 @@ Your Chapter 12 describes the three-token model but doesn't deep-link the econom
 
 ## Who We Are
 
-**John Santi** — plumber by trade, blockchain builder by obsession.
+**John Santi** — 5-star-rated Plumbing Company CEO by trade, theoretical Midnight blockchain systems architect and builder by obsession. 4.5+ years in the blockchain space.
 
 **Credentials**:
 - Midnight NightForce Bravo
@@ -135,6 +137,8 @@ Your Chapter 12 describes the three-token model but doesn't deep-link the econom
 - Author: *How to Code with Midnight* (in progress)
 - Author: *Blockchain Beyond the Rock* (in progress)
 - Author: *Midnight Network: A practical guide for descision makers, executives, and professionals* (in progress-priority)
+- Midnight Whale @MidnightWhale42
+- Owner of MidnightAlpha, BlockchainToday, CryptoFinancialWorld, Today's Ai, Fabulous F (Luxury Brands and Fashion publication)
 
 **What we're building**: [EnterpriseZK Labs](https://enterprisezk.com) — 22 privacy-preserving products on Midnight, all inside the [DIDzMonolith](https://github.com/bytewizard42i/DIDzMonolith) ecosystem. Identity [DIDz Privacy-Preserving,Identity Foundation Protocol](https://DIDz.io), KYC (KYCz), geolocation (GeoZ), voting (realVote), AI agent identity (AgenticDID), healthcare (SafeHealthData), legal discovery (AutoDiscovery.legal), and more.
 
